@@ -4,7 +4,7 @@ Recommended banner size: 1200 x 300 px
 -->
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/valenzuelajustinejurel/assets/aws-banner.png" alt="AWS Practitioner Projects Banner" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/valenzuelajustinejurel/aws-practitioner-projects/assets/aws-banner.png" alt="AWS Practitioner Projects Banner" width="100%" />
 </p>
 
 # ☁️ AWS Practitioner Projects
