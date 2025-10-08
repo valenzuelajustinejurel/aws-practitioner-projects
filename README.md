@@ -35,10 +35,10 @@ Every folder contains:
 
 ## 🚀 Projects Completed
 
-| Day | Project                                                            | Description                                                                                          |
-| --- | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
-| 1   | [Host a Website on Amazon S3](./host_a_website_on_amazons3)        | Deployed a static website using Amazon S3 with custom bucket policy and public access configuration. |
-| 2   | [Visualize Data with QuickSight](./visualize_data_with_quicksight) | Built an interactive dashboard in Amazon QuickSight to visualize and refresh S3-based datasets.      |
+| Day | Project                                                                                        | Description                                                                                          |
+| --- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 1   | [Host a Website on Amazon S3](./aws_beginners_challenge/02_host_a_website_on_amazons3/)        | Deployed a static website using Amazon S3 with custom bucket policy and public access configuration. |
+| 2   | [Visualize Data with QuickSight](./aws_beginners_challenge/03_visualize_data_with_quicksight/) | Built an interactive dashboard in Amazon QuickSight to visualize and refresh S3-based datasets.      |
 
 _(More projects coming soon as I progress through the AWS Practitioner roadmap!)_ ☁️
 
