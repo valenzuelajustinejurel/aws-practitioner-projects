@@ -11,8 +11,6 @@
 
 ## Getting Started with the AWS Free Tier
 
-![Image](http://learn.nextwork.org/sparkling_silver_zealous_persimmon/uploads/aws-account-setup_ba6d42af)
-
 ---
 
 ## Getting Started With AWS
@@ -36,7 +34,8 @@ I’ll make time for doing projects by setting aside at least one to two hours e
 When you sign up to AWS, you automatically get access to free usage of select services and experiment with computer power, storage, databases, and more
 
 The AWS Free Tier includes three different types of free offers:
--  $100 USD in credits when you create your account
+
+- $100 USD in credits when you create your account
 - An additional $100 USD in credits that you can earn by completing learning activities
 - Access to all "always free" AWS services to explore and build projects.
 
@@ -53,7 +52,5 @@ To make sure I remember this date, I’ll set a reminder in my calendar a few we
 ## Excited to share my progress! Let's connect.
 
 ### To learn with other AWS students and get support, I'm joining the NextWork community.
-
-![Image](http://learn.nextwork.org/sparkling_silver_zealous_persimmon/uploads/aws-account-setup_ba6d42af)
 
 ---

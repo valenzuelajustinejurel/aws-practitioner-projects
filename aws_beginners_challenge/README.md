@@ -11,10 +11,6 @@
 
 ## I'm Challenging Myself to AWS Projects!
 
-![Image](http://learn.nextwork.org/sparkling_silver_zealous_persimmon/uploads/aws-beginners-challenge_ba6d42ae)
-
----
-
 ## My AWS Challenge
 
 I’m taking on the AWS Beginner’s Challenge!
@@ -53,7 +49,5 @@ For now, I’m most interested in becoming a Cloud Engineer because they have a 
 ## Excited to share my progress! Let's connect.
 
 ### To learn with other AWS students and get support, I'm joining the NextWork community.
-
-![Image](http://learn.nextwork.org/sparkling_silver_zealous_persimmon/uploads/aws-beginners-challenge_ba6d42ae)
 
 ---
