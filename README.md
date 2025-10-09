@@ -35,11 +35,12 @@ Every folder contains:
 
 ## 🚀 Projects Completed
 
-| Day | Project                                                                                        | Description                                                                                                    |
-| --- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 1   | [Host a Website on Amazon S3](./aws_beginners_challenge/02_host_a_website_on_amazons3/)        | Deployed a static website using Amazon S3 with custom bucket policy and public access configuration.           |
-| 2   | [Visualize Data with QuickSight](./aws_beginners_challenge/03_visualize_data_with_quicksight/) | Built an interactive dashboard in Amazon QuickSight to visualize and refresh S3-based datasets.                |
-| 3   | [Cloud Security with AWS IAM](./aws_beginners_challenge/04_cloud_security_with_aws_iam/)       | Automating permissions for new joiners in a company, or using an Account Alias to customise their sign-in URL. |
+| Day | Project                                                                                                       | Description                                                                                                                                  |
+| --- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [Host a Website on Amazon S3](./aws_beginners_challenge/02_host_a_website_on_amazons3/)                       | Deployed a static website using Amazon S3 with custom bucket policy and public access configuration.                                         |
+| 2   | [Visualize Data with QuickSight](./aws_beginners_challenge/03_visualize_data_with_quicksight/)                | Built an interactive dashboard in Amazon QuickSight to visualize and refresh S3-based datasets.                                              |
+| 3   | [Cloud Security with AWS IAM](./aws_beginners_challenge/04_cloud_security_with_aws_iam/)                      | Automating permissions for new joiners in a company, or using an Account Alias to customise their sign-in URL.                               |
+| 4   | [Build a Chatbox with Amazon Lex(Lex Chatbox Series](./amazon_lex_series/01_Build_a_chatbot_with_amazon_lex/) | I built a chatbot with Amazon Lex, added custom greetings and fallback responses, and next, I’ll add custom slots to make BankerBot smarter. |
 
 _(More projects coming soon as I progress through the AWS Practitioner roadmap!)_ ☁️
 
